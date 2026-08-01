@@ -1,16 +1,35 @@
-## Hi there 👋
+<img src="https://img.shields.io/badge/-000000?style=flat-square" width="0" height="0" alt=""/>
 
-<!--
-**Koushik-31368/Koushik-31368** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi, I'm Koushik 👋
+Final-year CS undergrad (Edge & Cloud Computing) · KL University · Batch 2027
+Building full-stack systems, real-time pipelines, and applied ML.
 
-Here are some ideas to get you started:
+| CGPA | Projects | LeetCode |
+|:---:|:---:|:---:|
+| 9.3 | 4 | 100+ |
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Stack:** ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Spring](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white) ![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+---
+
+**Featured projects**
+
+**001 — [Mini Identity Verification & Fraud Engine](https://github.com/Koushik-31368/Mini-Identity-Verification-Fraud-Engine)**
+KYC-style pipeline combining OCR, face verification, a fine-tuned CNN for liveness detection, and a fraud classifier (85.7% recall, 74.7% F1).
+`PyTorch` `OpenCV`
+
+**002 — [TradeLearn](https://github.com/Koushik-31368/tradelearn-project)**
+Full-stack trading education platform with real-time simulation over WebSockets.
+`Spring Boot` `React`
+
+**003 — [MindMesh](https://github.com/Koushik-31368/mindmesh-project)**
+AI Chrome extension — full RAG pipeline with semantic search over any webpage.
+`Node.js` `RAG`
+
+**004 — [Kafka-Pulse](https://github.com/Koushik-31368/kafka-pulse)**
+Real-time e-commerce event pipeline with Kafka producer-consumer architecture.
+`Kafka` `PostgreSQL`
+
+---
+
+[Portfolio](https://portfolio-g-kappa.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/koushik-reddy-24785528a/) · [Email](mailto:2300031368csemdie@gmail.com)
